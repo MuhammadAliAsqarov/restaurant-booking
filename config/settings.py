@@ -184,5 +184,5 @@ SIMPLE_JWT = {
 }
 
 TELEGRAM_API_URL = 'https://api.telegram.org/bot{}/sendMessage?text={}&chat_id={}'
-BOT_TOKEN = '6912718237:AAH2v2r4x2TuYnHqfpbi1ci43AxYKEiBWoE'
-CHANNEL_ID = '-1002048118873'
+BOT_TOKEN = ''
+CHANNEL_ID = ''
